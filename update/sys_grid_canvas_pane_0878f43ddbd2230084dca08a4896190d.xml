@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+        <height>7</height>
+        <portal_widget display_value="">4c78b43ddbd2230084dca08a489619fb</portal_widget>
+        <posx>6</posx>
+        <posy>46</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+        <sys_id>0878f43ddbd2230084dca08a4896190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+        <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_0878f43ddbd2230084dca08a4896190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

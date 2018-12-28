@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3a2efea7dbf9230084dca08a489619fb" sys_domain="global" table="x_288071_iot_port_gsd_iot" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 05:15:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e2efea7dbf9230084dca08a489619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_288071_iot_port_gsd_iot" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">3a2efea7dbf9230084dca08a489619fb</sys_ui_form>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">362efea7dbf9230084dca08a489619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 05:15:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 05:15:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a2efea7dbf9230084dca08a489619fe</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_288071_iot_port_gsd_iot" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">3a2efea7dbf9230084dca08a489619fb</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">3e2efea7dbf9230084dca08a489619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 06:32:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 08:46:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>347ee323db3d630084dca08a489619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_288071_iot_port_gsd_iot" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">3a2efea7dbf9230084dca08a489619fb</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">ac7ee323db3d630084dca08a489619c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 08:46:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 09:00:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64a13ba3db3d630084dca08a48961920</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_288071_iot_port_gsd_iot" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">3a2efea7dbf9230084dca08a489619fb</sys_ui_form>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="Default view">54a13ba3db3d630084dca08a4896191d</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:51:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_288071_iot_port_gsd_iot</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 05:15:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a2efea7dbf9230084dca08a489619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_288071_iot_port_gsd_iot</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3a2efea7dbf9230084dca08a489619fb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 05:15:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

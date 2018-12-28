@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-12-28 00:39:35">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page/>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 05:33:22</sys_created_on>
+        <sys_id>8c78f03ddbd2230084dca08a489619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+        <sys_update_name>sys_grid_canvas_8c78f03ddbd2230084dca08a489619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 05:33:22</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>5</height>
+                <portal_widget display_value="">c078b43ddbd2230084dca08a489619ff</portal_widget>
+                <posx>0</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>0078f43ddbd2230084dca08a48961905</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_0078f43ddbd2230084dca08a48961905</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="">4c78b43ddbd2230084dca08a489619fc</portal_widget>
+                <posx>0</posx>
+                <posy>21</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>0478f43ddbd2230084dca08a48961908</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_0478f43ddbd2230084dca08a48961908</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>7</height>
+                <portal_widget display_value="">4c78b43ddbd2230084dca08a489619fb</portal_widget>
+                <posx>6</posx>
+                <posy>46</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>0878f43ddbd2230084dca08a4896190d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_0878f43ddbd2230084dca08a4896190d</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>6</height>
+                <portal_widget display_value="">0878f43ddbd2230084dca08a48961902</portal_widget>
+                <posx>6</posx>
+                <posy>35</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>4878f43ddbd2230084dca08a48961909</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_4878f43ddbd2230084dca08a48961909</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>6</height>
+                <portal_widget display_value="">0878f43ddbd2230084dca08a48961901</portal_widget>
+                <posx>6</posx>
+                <posy>53</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>4c78f43ddbd2230084dca08a4896190e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_4c78f43ddbd2230084dca08a4896190e</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>3</height>
+                <portal_widget display_value="">c078b43ddbd2230084dca08a489619fa</portal_widget>
+                <posx>6</posx>
+                <posy>41</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>8c78f43ddbd2230084dca08a4896190a</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_8c78f43ddbd2230084dca08a4896190a</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>2</height>
+                <portal_widget display_value="">c478f43ddbd2230084dca08a48961900</portal_widget>
+                <posx>6</posx>
+                <posy>44</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>c078f43ddbd2230084dca08a4896190c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_c078f43ddbd2230084dca08a4896190c</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">8c78f03ddbd2230084dca08a489619ee</grid_canvas>
+                <height>6</height>
+                <portal_widget display_value="">4c78b43ddbd2230084dca08a489619fd</portal_widget>
+                <posx>0</posx>
+                <posy>15</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-12-11 05:33:23</sys_created_on>
+                <sys_id>cc78f43ddbd2230084dca08a48961906</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>8c78f03ddbd2230084dca08a489619ee</sys_name>
+                <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_cc78f43ddbd2230084dca08a48961906</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-12-11 05:33:23</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

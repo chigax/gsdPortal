@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="GSD IoT" section_id="f9f1e5d4db22630084dca08a489619da" sys_domain="global" table="x_288071_iot_port_gsd_iot" version="3" view="test">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>39f129d4db22630084dca08a48961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_service</element>
+            <position>1</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>b9f129d4db22630084dca08a48961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other_service</element>
+            <position>2</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>3df129d4db22630084dca08a48961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_customer</element>
+            <position>3</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>bdf129d4db22630084dca08a48961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_customer_other</element>
+            <position>4</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>31f129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_ticket</element>
+            <position>5</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>b1f129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>35f129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>7</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>b5f129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <position>8</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>39f129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>b9f129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pending_reason</element>
+            <position>10</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>3df129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_service_impact</element>
+            <position>11</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>bdf129d4db22630084dca08a48961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_service_status</element>
+            <position>12</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>31f129d4db22630084dca08a4896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>b1f129d4db22630084dca08a4896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attached_knowledge</element>
+            <position>14</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>35f129d4db22630084dca08a4896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Attached Knowledge">cfa76e850a0a0b1f01446f67c8538d00</sys_ui_formatter>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge</element>
+            <position>15</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>f5f129d4db22630084dca08a4896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>16</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>79f129d4db22630084dca08a4896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>17</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>f9f129d4db22630084dca08a4896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="GSD IoT" display_value="GSD IoT" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">f9f1e5d4db22630084dca08a489619da</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>GSD IoT</caption>
+            <header>false</header>
+            <name>x_288071_iot_port_gsd_iot</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9f1e5d4db22630084dca08a489619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GSD IoT</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+            <sys_update_name>sys_ui_section_f9f1e5d4db22630084dca08a489619da</sys_update_name>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="test" name="test">f5f1e5d4db22630084dca08a489619d7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

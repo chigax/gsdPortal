@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="GSD IoT" max_length="40" name="x_288071_iot_port_gsd_iot" sizeclass="47" type="collection">
+        <element label="Closed Time" max_length="40" name="u_closed" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contact Type" max_length="40" name="u_contact_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Mail" sequence="0" value="mail"/>
+                <element inactive_on_update="false" label="Phone" sequence="1" value="phone"/>
+                <element inactive_on_update="false" label="Mail &amp; Phone" sequence="2" value="mail &amp; phone"/>
+            </choice>
+        </element>
+        <element label="Created Time" mandatory="true" max_length="40" name="u_created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="all" label="Customer" mandatory="true" max_length="40" name="u_customer" type="string">
+            <choice>
+                <element inactive_on_update="false" label="All" sequence="0" value="all"/>
+                <element inactive_on_update="false" label="いちご株式会社（新宿）" sequence="1" value="いちご株式会社（新宿）"/>
+                <element inactive_on_update="false" label="いちご株式会社（浜松町）" sequence="2" value="いちご株式会社（浜松町）"/>
+                <element inactive_on_update="false" label="共進ビルド" sequence="3" value="共進ビルド"/>
+                <element inactive_on_update="false" label="社内利用" sequence="4" value="社内利用"/>
+                <element inactive_on_update="false" label="藤枝市（藤枝市登下校お知らせサービス）" sequence="5" value="藤枝市　(藤枝市登下校お知らせサービス）"/>
+                <element inactive_on_update="false" label="藤枝市（事業者）" sequence="6" value="藤枝市（事業者）"/>
+                <element inactive_on_update="false" label="イオンモール（ベトナム）" sequence="7" value="イオンモール（ベトナム）"/>
+                <element inactive_on_update="false" label="イオンモール（津南）" sequence="8" value="イオンモール（津南）"/>
+                <element inactive_on_update="false" label="東京ドーム（東京ケーブルネットワーク）" sequence="9" value="東京ドーム（東京ケーブルネットワーク）"/>
+                <element inactive_on_update="false" label="村田機械" sequence="10" value="村田機械"/>
+                <element inactive_on_update="false" label="JR東日本" sequence="11" value="jr東日本"/>
+                <element inactive_on_update="false" label="広島県技術短大" sequence="12" value="広島県技術短大"/>
+                <element inactive_on_update="false" label="レノボ" sequence="13" value="レノボ"/>
+                <element inactive_on_update="false" label="ACCESS" sequence="14" value="access"/>
+                <element inactive_on_update="false" label="東京建物" sequence="15" value="東京建物"/>
+                <element inactive_on_update="false" label="藤枝市（事業者イートラスト）" sequence="16" value="藤枝市（事業者イートラスト）"/>
+                <element inactive_on_update="false" label="藤枝市（事業者ビートラスト）" sequence="17" value="藤枝市（事業者ビートラスト）"/>
+                <element inactive_on_update="false" label="藤枝市（事業者コイト電工）" sequence="18" value="藤枝市（事業者コイト電工）"/>
+                <element inactive_on_update="false" label="藤枝市（事業者LiveRidge）" sequence="19" value="藤枝市（事業者liveridge）"/>
+                <element inactive_on_update="false" label="鹿島建設" sequence="20" value="鹿島建設"/>
+                <element inactive_on_update="false" label="第一三共" sequence="21" value="第一三共"/>
+                <element inactive_on_update="false" label="SB総務(天王洲)" sequence="22" value="sb総務(天王洲)"/>
+                <element inactive_on_update="false" label="星野リゾート" sequence="23" value="星野リゾート"/>
+                <element inactive_on_update="false" label="徳島県" sequence="24" value="徳島県"/>
+                <element inactive_on_update="false" label="Other" sequence="25" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_customer_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mail Address" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Name" max_length="40" name="u_name" type="string"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Occurred Time" max_length="40" name="u_occurred" type="glide_date_time" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other_service" type="string"/>
+        <element label="Parent ticket" max_length="32" name="u_parent_ticktet" reference="x_288071_iot_port_gsd_iot" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pending Reason" max_length="40" name="u_pending_reason" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Customer Response" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Awaiting Vendor Response" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Awaiting Engineer Response" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="0"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="u_phone_number" type="string"/>
+        <element label="Previous Ticket" max_length="32" name="u_previous_ticket" reference="x_288071_iot_port_gsd_iot" type="reference"/>
+        <element label="Recovered Time" max_length="40" name="u_recovered" type="glide_date_time"/>
+        <element label="Reference" max_length="32" name="u_reference" reference="x_288071_iot_port_gsd_iot" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference" max_length="40" name="u_reference_ticket" reference="x_288071_iot_port_gsd_iot" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service" max_length="40" name="u_service" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Office IoT" sequence="0" value="office iot"/>
+                <element inactive="true" inactive_on_update="true" label="SmartKey" sequence="0" value="smartkey"/>
+                <element inactive_on_update="false" label="Sumakagi" sequence="0" value="sumakagi"/>
+                <element inactive="true" inactive_on_update="true" label="PF" sequence="1" value="pf"/>
+                <element inactive_on_update="false" label="旧個社ソリューション" sequence="1" value="old_solution"/>
+                <element inactive_on_update="false" label="個社ソリューション" sequence="2" value="solution"/>
+                <element inactive_on_update="false" label="IoT-M" sequence="3" value="iot-m"/>
+                <element inactive_on_update="false" label="API-M" sequence="4" value="api-m"/>
+                <element inactive_on_update="false" label="PP" sequence="5" value="pp"/>
+                <element inactive_on_update="false" label="DP" sequence="6" value="dp"/>
+                <element inactive_on_update="false" label="LoRa" sequence="7" value="lora"/>
+                <element inactive_on_update="false" label="Kony" sequence="8" value="kony"/>
+                <element inactive_on_update="false" label="Other" sequence="9" value="other"/>
+            </choice>
+        </element>
+        <element label="Service Impact" max_length="40" name="u_service_impact" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service Status" max_length="40" name="u_service_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Down" sequence="0" value="down"/>
+                <element inactive_on_update="false" label="Unstable" sequence="1" value="unstable"/>
+                <element inactive_on_update="false" label="Recovered" sequence="2" value="recovered"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="u_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Reported by Customer" sequence="0" value="byCus"/>
+                <element inactive_on_update="false" label="Detected" sequence="1" value="detected"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="3" value="maintenance"/>
+            </choice>
+        </element>
+    </element>
+</database>

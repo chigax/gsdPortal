@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <description>スケジュールDescription</description>
+        <document/>
+        <document_key/>
+        <name>スケジュール</name>
+        <parent/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>ksuzuki</sys_created_by>
+        <sys_created_on>2018-12-27 00:36:45</sys_created_on>
+        <sys_id>bd7d02b6db22230084dca08a48961988</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>スケジュール</sys_name>
+        <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+        <sys_update_name>cmn_schedule_bd7d02b6db22230084dca08a48961988</sys_update_name>
+        <sys_updated_by>ksuzuki</sys_updated_by>
+        <sys_updated_on>2018-12-27 01:51:18</sys_updated_on>
+        <time_zone>Japan</time_zone>
+        <type>スケジュールType</type>
+    </cmn_schedule>
+</record_update>

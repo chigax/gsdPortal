@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_parent_ticktet" label="Parent ticket" language="en" table="x_288071_iot_port_gsd_iot">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_parent_ticktet</element>
+            <help/>
+            <hint/>
+            <label>Parent ticket</label>
+            <language>en</language>
+            <name>x_288071_iot_port_gsd_iot</name>
+            <plural>Parent tickets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:49:29</sys_created_on>
+            <sys_id>55af1d54db22630084dca08a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent ticket</sys_name>
+            <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+            <sys_update_name>sys_documentation_x_288071_iot_port_gsd_iot_u_parent_ticktet_en</sys_update_name>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:49:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

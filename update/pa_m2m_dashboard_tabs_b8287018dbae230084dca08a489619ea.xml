@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Knowledge Management Overview">f828f4d4dbae230084dca08a489619a3</dashboard>
+        <home>false</home>
+        <homepage display_value="Knowledge Management Overview">38af5e41eb1012001e68286b1206fe37</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>ksuzuki</sys_created_by>
+        <sys_created_on>2018-12-18 23:56:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8287018dbae230084dca08a489619ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>f828f4d4dbae230084dca08a489619a3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_b8287018dbae230084dca08a489619ea</sys_update_name>
+        <sys_updated_by>ksuzuki</sys_updated_by>
+        <sys_updated_on>2018-12-18 23:56:54</sys_updated_on>
+        <tab display_value="New Tab">b8287018dbae230084dca08a489619e8</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

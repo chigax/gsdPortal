@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Customer Information" section_id="31f1e5d4db22630084dca08a489619dc" sys_domain="global" table="x_288071_iot_port_gsd_iot" version="3" view="test">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>0</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>4ef129d4db22630084dca08a48961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">31f1e5d4db22630084dca08a489619dc</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>cef129d4db22630084dca08a48961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">31f1e5d4db22630084dca08a489619dc</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact_type</element>
+            <position>2</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>42f129d4db22630084dca08a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">31f1e5d4db22630084dca08a489619dc</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_phone_number</element>
+            <position>3</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>c2f129d4db22630084dca08a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">31f1e5d4db22630084dca08a489619dc</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_email</element>
+            <position>4</position>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:38</sys_created_on>
+            <sys_id>46f129d4db22630084dca08a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_288071_iot_port_gsd_iot" sys_domain="global" view="f5f1e5d4db22630084dca08a489619d7">31f1e5d4db22630084dca08a489619dc</sys_ui_section>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Customer Information</caption>
+            <header>false</header>
+            <name>x_288071_iot_port_gsd_iot</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chiga</sys_created_by>
+            <sys_created_on>2018-12-19 02:59:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31f1e5d4db22630084dca08a489619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Customer Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+            <sys_update_name>sys_ui_section_31f1e5d4db22630084dca08a489619dc</sys_update_name>
+            <sys_updated_by>chiga</sys_updated_by>
+            <sys_updated_on>2018-12-19 02:59:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="test" name="test">f5f1e5d4db22630084dca08a489619d7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>test</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>chiga</sys_created_by>
+        <sys_created_on>2018-12-19 02:59:37</sys_created_on>
+        <sys_id>f5f1e5d4db22630084dca08a489619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+        <sys_update_name>sys_ui_view_f5f1e5d4db22630084dca08a489619d7</sys_update_name>
+        <sys_updated_by>chiga</sys_updated_by>
+        <sys_updated_on>2018-12-19 02:59:37</sys_updated_on>
+        <title>test</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_customer_other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>hmori</sys_created_by>
+        <sys_created_on>2018-12-18 02:19:30</sys_created_on>
+        <sys_id>271f0c48db62230084dca08a489619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_customer_other</sys_name>
+        <sys_package display_value="IoT Portal" source="x_288071_iot_port">a7fabae3dbf9230084dca08a48961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IoT Portal">a7fabae3dbf9230084dca08a48961984</sys_scope>
+        <sys_update_name>sys_ui_policy_action_271f0c48db62230084dca08a489619ec</sys_update_name>
+        <sys_updated_by>hmori</sys_updated_by>
+        <sys_updated_on>2018-12-18 02:19:30</sys_updated_on>
+        <table>x_288071_iot_port_gsd_iot</table>
+        <ui_policy display_value="Show or Hide Other Customer">d4cd4cc4db62230084dca08a48961949</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
